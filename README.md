@@ -1,6 +1,6 @@
                                              Sahid Mallick
 # IPL Statistics GUI
-Running this Script would allow the user see IPL statistics from various categories like most runs , most wickets etc from all seasons (2008 - 2020)
+Running this Script would allow the user see IPL statistics from various categories like most runs , most wickets etc from all seasons (2008 - 2021)
 
 ## Setup instructions
 In order to run this script, you need to have Python and pip installed on your system. After you're done installing Python and pip, run the following command from your terminal to install the requirements from the same folder (directory) of the project.
